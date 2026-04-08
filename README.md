@@ -1,3 +1,3 @@
-# optima-digital-hub
-AI-powered marketing services and CEO mentoring for impact-based businesses
-Testing deployment connection
+# OptimaDigitalHub
+
+AI-powered marketing services for local businesses in Southeast Texas.
